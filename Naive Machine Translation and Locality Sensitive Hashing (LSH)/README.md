@@ -16,7 +16,7 @@ This project was the last section of the NLP specialization with classification 
 
 3. **Testing the Translation**:
    - Evaluated the translation system by finding the nearest neighbors in the French embeddings and recommending the most similar French word.
-   - Managed to translate words from one language to another language without ever seeing them with almost 56% accuracy by using some basic linear algebra and    learning a mapping of words from one language to another!
+   - Managed to translate words from one language to another language without ever seeing them with almost `56% accuracy` by using some basic linear algebra and    learning a mapping of words from one language to another!
 
 4. **Locality Sensitive Hashing (LSH) for Document Search**:
    - Applied LSH to perform efficient document search and find similar tweets.
