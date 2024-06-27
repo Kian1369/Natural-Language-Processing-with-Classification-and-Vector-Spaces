@@ -2,6 +2,8 @@
 
 ## Project: Naive Machine Translation and Locality Sensitive Hashing (LSH)
 
+![Machine-Translation-Model](Machine-Translation-Model.png)
+
 In this project, I developed a machine translation system to translate English words to French using word embeddings and vector space models. The project involved the following key steps:
 
 1. **Generating Embedding and Transformation Matrices**:
