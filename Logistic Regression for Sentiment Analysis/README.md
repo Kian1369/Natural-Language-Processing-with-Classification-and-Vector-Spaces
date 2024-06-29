@@ -1,6 +1,6 @@
 # Logistic Regression for Sentiment Analysis
 
-![Tweet](Tweet.png)
+![Tweet](Tweet.jpeg)
 
 ## Project Overview
 This project was the last section of the NLP specialization with classification and vector spaces authorized by DeepLearning.AI and offered through Coursera. The main goal is to implement logistic regression for sentiment analysis on tweets. The model predicts whether a tweet has a positive or negative sentiment.
