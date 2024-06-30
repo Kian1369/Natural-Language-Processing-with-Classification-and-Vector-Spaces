@@ -1,6 +1,6 @@
 # Logistic Regression for Sentiment Analysis
 
-![Tweet](assets/img/Tweet.jpeg)
+![Tweet](assets/img/NLP_1.png)
 
 
 
