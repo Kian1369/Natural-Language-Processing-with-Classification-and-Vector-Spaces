@@ -6,9 +6,9 @@ Welcome to my Natural Language Processing (NLP) Specialization repository, compr
 
 
 
-## Instructors
+## About the Course and Instructors:
 
-This specialization is crafted and instructed by renowned experts in NLP, machine learning, and deep learning:
+This NLP specialization is authorized by **DeepLearning.AI and offered through Coursera**. It is crafted and instructed by renowned experts in NLP, machine learning, and deep learning:
 
 - **Younes Bensouda Mourri**: AI Instructor at Stanford University, co-creator of the Deep Learning Specialization.
 - **Łukasz Kaiser**: Staff Research Scientist at Google Brain, co-author of TensorFlow, and contributor to Tensor2Tensor, Trax libraries, and the Transformer paper.
