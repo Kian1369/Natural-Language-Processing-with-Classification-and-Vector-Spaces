@@ -1,6 +1,6 @@
 # Logistic Regression for Sentiment Analysis
 
-<img src="Tweet.jpeg" alt="Tweet" width="400"/>
+<img src="Tweet.jpeg" alt="Tweet" width="800"/>
 
 
 ## Project Overview
