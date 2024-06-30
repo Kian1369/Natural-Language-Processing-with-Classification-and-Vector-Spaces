@@ -3,6 +3,7 @@ This project was the second section of the **NLP specialization with classificat
 
 
 In this project, I:
+
 - Trained a Naive Bayes model on a sentiment analysis task.
 - Tested the model.
 - Computeed ratios of positive words to negative words.
@@ -10,6 +11,7 @@ In this project, I:
 - Predicted the sentiment of my own written tweet.
 
 The approach includes:
+
 1. Processing the data.
 2. Training the Naive Bayes model.
 3. Testing the model.
