@@ -4,7 +4,7 @@
 
 ![Machine-Translation-Model](Machine-Translation-Model.png)
 
-This project was the last section of the NLP specialization with classification and vector spaces authorized by DeepLearning.AI and offered through Coursera. I implemented and developed a machine translation system to translate English words to French using word embeddings and vector space models. The project involved the following key steps:
+This project was the last section of the **NLP specialization with classification and vector spaces** authorized by DeepLearning.AI and offered through Coursera. I implemented and developed a machine translation system to translate English words to French using word embeddings and vector space models. The project involved the following key steps:
 
 1. **Generating Embedding and Transformation Matrices**:
    - Created matrices for English and French word embeddings using a provided dictionary.
