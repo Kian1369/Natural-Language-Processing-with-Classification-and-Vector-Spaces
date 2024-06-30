@@ -1,21 +1,13 @@
-This project involves using Naive Bayes for sentiment analysis on tweets. The goal is to classify the sentiment of a tweet as either positive or negative. This was done as part of an assignment for learning Naive Bayes and its applications in natural language processing.
-
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Results](#results)
-- [License](#license)
-
 ## Project Overview
+This project was the second section of the **NLP specialization with classification and vector spaces** authorized by DeepLearning.AI and offered through Coursera. In this project, I utilized **Naive Bayes for sentiment analysis on tweets**. The goal is to classify the sentiment of a tweet as either positive or negative. This was done as part of an assignment for learning Naive Bayes and its applications in natural language processing.
 
-In this project, we:
-- Train a Naive Bayes model on a sentiment analysis task.
-- Test the model.
-- Compute ratios of positive words to negative words.
-- Perform error analysis.
-- Predict the sentiment of our own tweet.
+
+In this project, I:
+- Trained a Naive Bayes model on a sentiment analysis task.
+- Tested the model.
+- Computeed ratios of positive words to negative words.
+- Performed error analysis.
+- Predicted the sentiment of my own written tweet.
 
 The approach includes:
 1. Processing the data.
